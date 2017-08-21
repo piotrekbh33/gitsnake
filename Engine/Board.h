@@ -1,7 +1,7 @@
 #pragma once
 #include "Graphics.h"
 #include "Location.h"
-
+// Hi Master
 class Board
 {
 public:
